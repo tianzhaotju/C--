@@ -47,5 +47,4 @@ void main(){
 
 # Authors
 
-吴俊岐、王兆盟、田朝、陶柏安
 github地址：https://github.com/tianzhaotju/C--.git
